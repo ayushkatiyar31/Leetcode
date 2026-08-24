@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0543-diameter-of-binary-tree) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0543-diameter-of-binary-tree) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
 ## Quickselect
 |  |
