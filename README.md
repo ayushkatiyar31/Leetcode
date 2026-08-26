@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0816-design-hashset) |
 | [0907-koko-eating-bananas](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0907-koko-eating-bananas) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0518-coin-change-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
