@@ -397,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0142-linked-list-cycle-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
