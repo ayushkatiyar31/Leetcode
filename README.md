@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0066-plus-one) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0064-minimum-path-sum) |
 ## Stack
 |  |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0037-sudoku-solver) |
 | [0113-path-sum-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
@@ -426,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0222-count-complete-tree-nodes) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
