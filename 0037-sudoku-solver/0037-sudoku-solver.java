@@ -30,14 +30,14 @@ class Solution {
     }
     public boolean isValid(char[][] board,int row, int col,char num){
 
-        for(int j = 0; j < 9; j++){
-            if(board[row][j] == num){
+        for(int i = 0; i < 9; i++){
+            if(board[i][col] == num){
                 return false;
             }
         }
 
-        for(int i = 0; i < 9; i++){
-            if(board[i][col] == num){
+        for(int j = 0; j < 9; j++){
+            if(board[row][j] == num){
                 return false;
             }
         }
@@ -52,7 +52,8 @@ class Solution {
                 }
             }
         }
-        return true;
+    return true;
     }
 
 }
+
