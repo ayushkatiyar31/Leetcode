@@ -11,8 +11,8 @@ class Solution {
         int maxSum = sum;
 
         for(int i = k; i < n; i++){
-            sum -= nums[i - k]; // remove old element 
-            sum += nums[i]; // add new element
+            sum -= nums[i - k];  
+            sum += nums[i]; 
             maxSum = Math.max(maxSum, sum);
         }
         return (double) maxSum / k;
