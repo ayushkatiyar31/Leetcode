@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0792-binary-search) |
@@ -445,4 +446,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
