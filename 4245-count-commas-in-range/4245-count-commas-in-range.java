@@ -1,12 +1,7 @@
 class Solution {
     public int countCommas(int n) {
+
+        return Math.max(0, n - 999);
         
-       int ans = 0;
-
-       for(int x = 1000 ; x <= n; x *= 1000){
-           ans += n - x + 1;
-       }
-       return ans;
-
     }
 }
