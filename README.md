@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
