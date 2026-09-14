@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0866-rectangle-overlap](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1395-minimum-time-visiting-all-points) |
 | [4245-count-commas-in-range](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/4245-count-commas-in-range) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0866-rectangle-overlap) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1395-minimum-time-visiting-all-points) |
 ## Interactive
 |  |
