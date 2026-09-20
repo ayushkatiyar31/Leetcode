@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/2058-concatenation-of-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/3811-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0257-binary-tree-paths) |
+| [3811-reverse-degree-of-a-string](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/3811-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
