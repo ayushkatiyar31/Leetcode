@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0257-binary-tree-paths) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3811-reverse-degree-of-a-string](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/3811-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/3799-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
