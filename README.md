@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0020-valid-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
