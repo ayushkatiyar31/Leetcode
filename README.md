@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0037-sudoku-solver) |
 | [0113-path-sum-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0257-binary-tree-paths) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0022-generate-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
