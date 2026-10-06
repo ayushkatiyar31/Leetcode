@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0739-daily-temperatures) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3811-reverse-degree-of-a-string](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/3811-reverse-degree-of-a-string) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## DP on Trees
 |  |
 | ------- |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
